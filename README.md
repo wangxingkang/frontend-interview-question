@@ -12,3 +12,4 @@
 * [fe9-interview](https://github.com/frontend9/fe9-interview) 前端九部 - 面试题库
 * [每周十道前端大厂面试题](https://github.com/airuikun/Weekly-FE-Interview)
 * [interview_internal_reference](https://github.com/0voice/interview_internal_reference)
+* [前端面试手册](https://github.com/yangshun/front-end-interview-handbook/tree/master/contents/zh)
